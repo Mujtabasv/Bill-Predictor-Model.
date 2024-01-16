@@ -1,6 +1,5 @@
-import joblib
 import streamlit as st
-
+import joblib
 
 st.markdown("<h1 style='text-align:center'>Restaurant Bill Prediction Model</h1>", unsafe_allow_html=True )
 st.markdown("<h3 style='text-align:center'>Model to predict Total Bill.</h3>", unsafe_allow_html=True )
